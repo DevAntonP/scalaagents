@@ -1,0 +1,15 @@
+target/
+
+.settings
+.project
+.classpath
+
+.idea
+*.iml
+
+.metals
+.bloop
+.bsp
+
+# Project exclude paths
+/src/main/scala/scala/nativeagents/
